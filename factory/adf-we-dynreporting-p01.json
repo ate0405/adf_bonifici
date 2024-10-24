@@ -1,0 +1,9 @@
+{
+	"name": "adf-we-dynreporting-p01",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
+		}
+	},
+	"location": "westeurope"
+}
